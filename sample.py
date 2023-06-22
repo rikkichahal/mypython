@@ -1,6 +1,9 @@
 a = 2
-b = 3
-c = a+b
+b = 4
+
+c = a*b
 print(c)
 
 print("hello")
+
+print("this is updated file")
